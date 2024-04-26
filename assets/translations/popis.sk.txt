@@ -1,0 +1,34 @@
+UČÍTE SA BÁSNE ?
+Pre každého kto má problém si zapamätať dlhé texty a básne.
+Vyskúšajte aplikáciu na obrázku vpravo alebo v celom okne.
+
+SPACED REPETITION
+Učenie a opakovanie je založené na Spaced Repetion metóde. Princíp metódy je v predlžovaní intervalov opakovania známych skutočností.
+
+TECHNOLÓGIA
+Aplikácia bola vytvorená technológiou flutter.
+
+----------------------
+
+Aplikácia na učenie sa básní a textov pomocou metódy Spaced Repetition. Metóda postupne predlžuje intervaly medzi opakovaním veršov aby sa dosiahla maximálna efektívnosť opakovania.
+
+
+Môžete si pridávať do aplikácie ľubovoľné básne a texty - alebo si môžete vybrať z databázy existujúcich básni.
+
+
+Pred inštaláciou aplikácie, si môžete celú aplikáciu vyskúšať na stránke http://ranka.mobi/poem/
+
+
+Každý verš v básni opakujete overením prvého písmena každého slova. Aplikácia rozoznáva slovenské písmená a písmeno ch.
+
+
+Zopár tipov na správe používanie aplikácie:
+
+
+- Používajte aplikáciu minimálne raz denne.
+
+
+- Aj keď máte málo času, tak si aspoň zopakujte to čo viete a nepridávajte si nové verše.
+
+
+- Najlepšie je aspoň z času na čas zopakovať si verše nahlas.

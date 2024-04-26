@@ -1,0 +1,40 @@
+Do You learn a poem?
+For everybody, who has a problem to remember long texts and poems.
+You can try an application in an image on the right or in the new window. 
+
+SPACED REPETITION
+Learning and repetition are based on the Spaced Repetition method.
+Spaced repetition is a method of reviewing material at systematic intervals. 
+Spaced repetition is in many ways the opposite of "cramming". 
+Rather than learning information in a short time period, which can lead to quick forgetting, 
+spaced repetition focuses on long-term retention of new information.
+
+TECHNOLOGY
+The Application was created with flutter.
+
+----------------------
+
+
+Aplikácia na učenie sa básní a textov pomocou metódy Spaced Repetition. 
+Metóda postupne predlžuje intervaly medzi opakovaním veršov aby sa dosiahla maximálna efektívnosť opakovania.
+
+
+Môžete si pridávať do aplikácie ľubovoľné básne a texty - alebo si môžete vybrať z databázy existujúcich básni.
+
+
+Pred inštaláciou aplikácie, si môžete celú aplikáciu vyskúšať na stránke http://ranka.mobi/poem/
+
+
+Každý verš v básni opakujete overením prvého písmena každého slova. Aplikácia rozoznáva slovenské písmená a písmeno ch.
+
+
+Zopár tipov na správe používanie aplikácie:
+
+
+- Používajte aplikáciu minimálne raz denne.
+
+
+- Aj keď máte málo času, tak si aspoň zopakujte to čo viete a nepridávajte si nové verše.
+
+
+- Najlepšie je aspoň z času na čas zopakovať si verše nahlas.
